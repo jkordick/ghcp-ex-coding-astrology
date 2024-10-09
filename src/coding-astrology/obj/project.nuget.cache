@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyqcWwh0MWc=",
+  "success": true,
+  "projectFilePath": "/workspaces/ghcp-ex-coding-astrology/src/coding-astrology/coding-astrology.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/octokit/13.0.1/octokit.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

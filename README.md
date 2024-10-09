@@ -1,1 +1,1 @@
-# ghcp-ex-coding-astrology
+# Julia's demo repo for a GitHub Copilot Extension to provide a fun code horoscope/astrology
