@@ -1,0 +1,18 @@
+{
+  "name": "coding-astrology",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "express": "^4.19.2",
+    "@copilot-extensions/preview-sdk": "^5.0.1"
+  },
+  "author": "jkordick",
+  "license": "ISC",
+  "description": ""
+}
